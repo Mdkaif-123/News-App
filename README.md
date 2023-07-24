@@ -1,4 +1,4 @@
-# Python News App - Read Me
+# Python News App 
 
 ## Introduction
 
